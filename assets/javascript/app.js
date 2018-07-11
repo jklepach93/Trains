@@ -2,12 +2,12 @@ $(document).ready(function(){
   console.log ("ready!");
 
   var config = {
-    apiKey: "AIzaSyCBvkVHdhMNowYOWwPaP8JkSiqB9HB1xaE",
-    authDomain: "trainscheduler-fb53f.firebaseapp.com",
-    databaseURL: "https://trainschedule-fb53f.firebaseio.com",
-    projectId: "trainscheduler-fb53f",
-    storageBucket: "trainscheduler-fb53f.appspot.com",
-    messagingSenderId: "529880191953"
+    apiKey: "AIzaSyBIJIlWvduXQGkM8UjBby1TG9idmiMcB_c",
+    authDomain: "trainthing-c4965.firebaseapp.com",
+    databaseURL: "https://trainthing-c4965.firebaseio.com",
+    projectId: "trainthing-c4965",
+    storageBucket: "trainthing-c4965.appspot.com",
+    messagingSenderId: "177659940029"
   };
   firebase.initializeApp(config);
 
